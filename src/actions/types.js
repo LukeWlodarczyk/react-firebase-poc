@@ -1,0 +1,5 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const REAL_TIME_MESSAGES = 'REAL_TIME_MESSAGES';

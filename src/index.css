@@ -1,0 +1,11 @@
+html {
+  font-family: Roboto;
+  background: #f8f8f8;
+  color: #727272;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
